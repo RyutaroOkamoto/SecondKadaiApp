@@ -35,8 +35,8 @@
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yF0-Yj-Z4S">
-                                <rect key="frame" x="137" y="359" width="46" height="30"/>
-                                <state key="normal" title="Button"/>
+                                <rect key="frame" x="142" y="359" width="36" height="30"/>
+                                <state key="normal" title="enter"/>
                                 <connections>
                                     <segue destination="3Ku-4a-U1a" kind="show" id="Y5e-1u-txe"/>
                                 </connections>
